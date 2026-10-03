@@ -1,8 +1,8 @@
 # Logis Atlas, documentação técnica
 
 Logis Atlas é um sistema de controle de almoxarifado com várias unidades, feito
-para ambiente hospitalar. Está em produção no Hospital Municipal de Pacatuba, no
-Ceará.
+para ambiente hospitalar. Está em produção no Hospital Municipal Raimundo Célio
+Rodrigues, em Pacatuba (CE).
 
 O código é privado porque o sistema roda em ambiente hospitalar com dados reais.
 Este repositório explica o que o sistema faz e por que foi construído assim.
